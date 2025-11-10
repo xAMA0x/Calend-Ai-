@@ -41,7 +41,7 @@ architecture:
 
 # Diagrammes d'architecture (optionnel)
 diagrams:
-  - path: "https://raw.githubusercontent.com/xAMA0x/Calend-Ai-/main/.portfolio/diagrams/diagram.svg"
+  - path: "https://raw.githubusercontent.com/xAMA0x/Calend-Ai-/main/.portfolio/diagrams/diagram.png"
     title: "Architecture Mobile (React Native)"
     description: "Flux de données et séparation des modules dans l'application mobile."
 
